@@ -1,1 +1,0 @@
-GOOS=linux GOARCH=amd64 go build github.com/prometheus/prometheus/documentation/examples/remote_storage/remote_storage_adapter
